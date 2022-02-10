@@ -14,7 +14,7 @@
     "libphonenumber-js": "^1.7.44",
     "list.js": "1.5.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nouislider": "13.1.4",
     "prop-types": "15.7.2",
     "react": "16.8.6",
